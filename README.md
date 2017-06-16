@@ -1,4 +1,4 @@
-# delaware-defensive-driving-online-course-macro
+# Delaware Defensive Driving Online Course Macro for American Safety Council
 Automatically clicks the next button whenever available.
 
 # Only for this online course:
@@ -27,3 +27,7 @@ This script skips the quizzes in between the modules as they are not a requireme
 Every now and then the website asks you security questions and the script will not be able to answer those, thus redirecting you to the login screen or something like that.
 
 Hope you use this well to easily finish this pointless online course.
+
+# How to take final exam:
+This script doesn't do the final exam for you. Its easy.
+Just google each questions and you can get the answer.
