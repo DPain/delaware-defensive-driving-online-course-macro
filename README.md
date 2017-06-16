@@ -31,3 +31,6 @@ Hope you use this well to easily finish this pointless online course.
 # How to take final exam:
 This script doesn't do the final exam for you. Its easy.
 Just google each questions and you can get the answer.
+
+# FYI
+"Use this only for educational purposes."
