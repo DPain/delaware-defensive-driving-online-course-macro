@@ -1,7 +1,7 @@
 # delaware-defensive-driving-online-course-macro
 Automatically clicks the next button whenever available.
 
-#How to use:
+# How to use:
 https:course.uceusa.com/Courses/content/701/index.aspx
 Go to the link above and start from the first page. When you are at a page that starts with "https:course.uceusa.com/Courses/"
 Use Tampermonkey to apply this script. The script only runs
