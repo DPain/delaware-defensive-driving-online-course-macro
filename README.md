@@ -1,6 +1,12 @@
 # delaware-defensive-driving-online-course-macro
 Automatically clicks the next button whenever available.
 
+# Only for this online course:
+http://www.dmv.org/de-delaware/defensive-driving.php
+http://americansafetycouncil.com/delaware/
+
+These are the same course. 2nd link is just the link from the first website I linked
+
 # How to use:
 https:course.uceusa.com/Courses/content/701/index.aspx
 Go to the link above and start from the first page. When you are at a page that starts with "https:course.uceusa.com/Courses/"
