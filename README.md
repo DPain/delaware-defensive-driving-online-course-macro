@@ -3,6 +3,7 @@ Automatically clicks the next button whenever available.
 
 # Only for this online course:
 http://www.dmv.org/de-delaware/defensive-driving.php
+
 http://americansafetycouncil.com/delaware/
 
 These are the same course. 2nd link is just the link from the first website I linked
